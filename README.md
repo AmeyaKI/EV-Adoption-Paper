@@ -18,7 +18,7 @@ States: 46 states. States omitted were Alaska, Colorado, Hawaii, and New Hampshi
   Units: Cents per Kilowatt. 
   Based on Residential electricity prices.
   
-**Gas Price**: https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=EMA_EPM0_PWG_SAL_DPG&f=M 
+**Gas Price**: https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=EMA_EPM0_PWG_SAL_DPG&f=M
   Total Gasoline Wholesale/Resale Price by Refiners
   
   Units: Dollars per Gallon
