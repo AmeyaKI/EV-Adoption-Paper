@@ -11,7 +11,7 @@ from sklearn.metrics import mean_squared_error
 import numpy as np
 
 
-# Data pre-porocessing
+# Data pre-processing
 data = pd.read_csv("allstates.csv")
 data['t'] = data['Year'].astype(int) - 2013 # Add 't'to: numericVar and X in order to produce model that accounts for time as a numeric variable.
 
