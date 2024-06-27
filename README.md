@@ -20,11 +20,13 @@ States: 46 states. States omitted were Alaska, Colorado, Hawaii, and New Hampshi
   
 **Gas Price**: https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=EMA_EPM0_PWG_SAL_DPG&f=M 
   Total Gasoline Wholesale/Resale Price by Refiners
+  
   Units: Dollars per Gallon
+  
   Note: The Link attached is specifically for Alabama. Each state has a different link. To find the original data for each individual state, search up "[State Name] Total Gasoline Wholesale/Resale Price by Refiners"
   While data did exist on Retail Gasoline Prices /  prices closer to those seen at gas stations, unfortunately this data was either only limited to the US writ large (no data on individual states) or didn't exist for a sufficient number of states (ie. only 6-8 states published retail gasoline prices). 
-  There were some approximations made to include more states:
-  Data for Vermont gas prices in the years 2018, 2019, 2021, and 2022 were calculated using data from the other available yaers of 2014, 2015, 2016, 2017, 2020 and approximations of average annual increase/decrease across neighboring states of NY, MA, NH, ME, RI, CT. 
+  
+  There were some approximations made to include more states. Specifically, Data for Vermont gas prices in the years 2018, 2019, 2021, and 2022 were calculated using data from the other available yaers of 2014, 2015, 2016, 2017, 2020 and approximations of average annual increase/decrease across neighboring states of NY, MA, NH, ME, RI, CT. 
 
 
 **Median Income**: https://fred.stlouisfed.org/release/tables?rid=249&eid=259515&od=# 
