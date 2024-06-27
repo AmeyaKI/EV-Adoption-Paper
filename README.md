@@ -8,7 +8,7 @@ Timeframe: 2014-2022
 States: 46 states. States omitted were Alaska, Colorado, Hawaii, and New Hampshire. DC was also omitted. These states were omitted due to lack of data points for certain variables. 
 
 
-# Dataset Sources:
+# Dataset Sources
 
 
 **Infrastructure**: https://afdc.energy.gov/stations/states 
