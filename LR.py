@@ -67,10 +67,10 @@ coefficients_df.to_csv("name.csv", index=False)
 # Performance Metrics
 
 # r^2
-r2 = r2_score(y, LR_model.predict(X_Processed))
-print(f'R-squared: {r2:.10f}')
+rSquared = r2_score(y, LR_model.predict(X_Processed))
+print(f'R-squared: {rSquared:.10f}')
 
 # RMSE
 y_pred = LR_model.predict(X_Processed)
-rmse = np.sqrt(mean_squared_error(y, y_pred))
-print(f'RMSE: {rmse:.10f}')
+RMSE = np.sqrt(mean_squared_error(y, y_pred))
+print(f'RMSE: {RMSE:.10f}')
