@@ -1,11 +1,11 @@
 # EV-Adoption-Paper
-NeurIPS EV Paper Submission Models and Datasets
+EV Research Models and Datasets
 
 # Dataset Characteristics
 
 Timeframe: 2014-2022
 
-States: 46 states. States omitted were Alaska, Colorado, Hawaii, and New Hampshire. DC was also omitted. These states were omitted due to lack of data points for certain variables. 
+States: 46 states. States omitted were Alaska, Colorado, Hawaii, and New Hampshire. DC was also omitted. Omissions due to lack of data points for certain variables.
 
 
 # Dataset Sources
